@@ -1,0 +1,5 @@
+Race,Estimated 1992 % of Race j Group,1992 P(D | race j),1992 P(R | race j),Estimated 2000 % of Race j Group,2000 P(D | race j),2000 P(R | race j),Estimated 2008 % of Race j Group,2008 P(D | race j),2008 P(R | race j),Average %,Average P(D | race j),Average P(R | race j)
+White,0.87,0.39,0.41,0.81,0.42,0.55,0.74,0.43,0.55,0.8066666667,0.4133333333,0.5033333333
+African American,0.08,0.83,0.1,0.1,0.90,0.09,0.13,0.95,0.04,0.1033333333,0.8933333333,0.07666666667
+Asian + Other,0.01,0.31,0.55,0.02,0.55,0.41,0.04,0.64,0.33,0.02333333333,0.5,0.43
+Hispanic,0.02,0.61,0.25,0.07,0.62,0.41,0.09,0.67,0.31,0.06,0.6333333333,0.3233333333
